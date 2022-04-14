@@ -1,7 +1,9 @@
 #include "main.h"
+
 /**
  * print_numbers - print with new line
  */
+
 void print_numbers(void)
 {
 	int i;
